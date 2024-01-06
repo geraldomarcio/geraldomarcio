@@ -21,8 +21,7 @@ Estou sempre em busca de novos conhecimentos e me esforço para me manter atuali
 Estou aberto a discussões, colaborações e novas oportunidades. Sinta-se à vontade para entrar em contato comigo para falar sobre tecnologia, projetos interessantes ou qualquer outra coisa relacionada ao desenvolvimento de software.
 
 - [LinkedIn](www.linkedin.com/in/geraldo-m%C3%A1rcio-s-lima-de-barros-01618b2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - Conecte-se comigo no LinkedIn.
-- [Twitter](#) - Siga-me no Twitter para atualizações e insights.
-- [Email](#) - Envie-me um e-mail para entrar em contato direto.
+- [Email](gmsolution@outlook.com.br) - Envie-me um e-mail para entrar em contato direto.
 
 ## 📈 Estatísticas do GitHub
 
